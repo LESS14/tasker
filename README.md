@@ -7,6 +7,6 @@
 <div id="footer-links">
 <h2>Links</h2>
 <div>
-<a id="link-1" href="https://felipe.ebxdesignstudio.com/projects/tasker/downloads/bin/tasker.exe" target="_blank" title="Baixar em https://felipe.ebxdesignstudio.com/projects/tasker/downloads/bin/tasker.exe">Download do binário compilado</a>
+<a id="link-1" href="https://felipe.ebxdesignstudio.com/projects/tasker/downloads/bin/tasker.exe" target="_blank" title="Baixar em https://felipe.ebxdesignstudio.com/projects/tasker/downloads/bin/tasker.exe">Download do executável(.exe) compilado</a>
 </div>
 </div>
